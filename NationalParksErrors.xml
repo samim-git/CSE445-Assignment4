@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Name>The Big Ditch Park</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Phone>307-344-2003</Phone>
+    <Address>
+      <Number>2</Number>
+      <Street>North Gate Loop</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Address NearestAirport="FAT">
+      <Number>9039</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="SGU">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Phone>865-436-1291</Phone>
+    <Address NearestAirport="TYS">
+      <Number>107</Number>
+      <Street>Park Headquarters Rd</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Acadia</Name>
+    <Phone>207-288-3338</Phone>
+    <Address NearestAirport="BGR">
+      <Number>20</Number>
+      <Street>McFarland Hill Drive</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearestAirport="DEN">
+      <Number>1000</Number>
+      <Street>Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Phone>360-565-3131</Phone>
+    <Address NearestAirport="SEA">
+      <Number>300</Number>
+      <Street>Park Avenue</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Glacier</Name>
+    <Phone>406-888-7800</Phone>
+    <Address NearestAirport="FCA">
+      <Number>12</Number>
+      <Street>Glacier Route 1 Sherman</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3300</Phone>
+    <Address NearestAirport="JAC">
+      <Number>103</Number>
+      <Street>Headquarters Loop</Street>
+      <City>Moose</City>
+      <State>WY</State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <Name>Joshua Tree</Name>
+    <Phone>760-367-5500</Phone>
+    <Phone>760-367-5522</Phone>
+    <Address NearestAirport="PSP">
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+</NationalPark>
